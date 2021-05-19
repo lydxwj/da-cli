@@ -136,7 +136,7 @@ npm link
 
 #### 注意
 
-- 支持[github](https://github.com/)、[gitlab](https://gitlab.com/)下的公开项目（私有项目需要自己的git有权限）、公司自己搭建的git仓库的项目
+- 支持[github](https://github.com/)、[gitlab](https://gitlab.com/)、[gitee](https://gitee.com/)下的公开项目（私有项目需要自己的git有权限）、公司自己搭建的git仓库的项目
 - 下载过程中有可能需要登录对应的git账号
 
 ### [项目地址](https://github.com/lydxwj/da-cli)
