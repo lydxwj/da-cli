@@ -39,6 +39,8 @@ npm link
     》github
 
     ​    gitlab
+    
+    ​    gitee
 
   - ？请输入仓库所属   lydxwj
 
