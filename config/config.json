@@ -1,0 +1,27 @@
+{
+  "sites": {
+    "github": {
+      "name": "github",
+      "value": "github",
+      "short": "github",
+      "url": "github:{tplOwner}/{tplName}"
+    },
+    "gitlab": {
+      "name": "gitlab",
+      "value": "gitlab",
+      "short": "gitlab",
+      "url": "gitlab:{tplOwner}/{tplName}"
+    },
+    "gitee": {
+      "name": "gitee",
+      "value": "gitee",
+      "short": "gitee",
+      "url": "direct:https://gitee.com/{tplOwner}/{tplName}"
+    }
+  },
+  "frames": {
+    "vue": {
+      "url": "direct:https://gitee.com/lydxwj/vue-create"
+    }
+  }
+}

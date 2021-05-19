@@ -1,0 +1,12 @@
+{
+  "cli": {
+    "tplOwner": "lydxwj",
+    "tplName": "da-cli",
+    "site": "github"
+  },
+  "loading": {
+    "tplOwner": "lydxwj",
+    "tplName": "vue-loading",
+    "site": "gitee"
+  }
+}
